@@ -7,7 +7,7 @@ var tempo = 20
 var criaMosquitoTempo = 1500
 
 var nivel = window.location.search
-nivel = nivel.replace('?','')
+nivel = nivel.replace('?','inicio-jogo.html')
 
 if(nivel === 'Easy'){
 	criaMosquitoTempo = 1500
