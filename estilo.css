@@ -46,3 +46,24 @@ body {
 	font-size: 20px;
 	font-weight: bold;
 }
+
+/* Estilos para tamanhos de tela maiores ou iguais a 576px (small) */
+@media (min-width: 576px) {
+	
+}
+
+/* Estilos para tamanhos de tela maiores ou iguais a 768px (medium) */
+@media (min-width: 768px) {
+
+}
+
+/* Estilos para tamanhos de tela maiores ou iguais a 992px (large) */
+@media (min-width: 992px) {
+	/* Coloque seus estilos específicos para telas grandes aqui */
+}
+
+/* Estilos para tamanhos de tela maiores ou iguais a 1200px (extra large) */
+@media (min-width: 1200px) {
+	/* Coloque seus estilos específicos para telas extra grandes aqui */
+}
+
